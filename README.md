@@ -1,2 +1,2 @@
-# ML-MINI-PROJECTS
+# ML-PROJECTS
 collection of ml mini projects
