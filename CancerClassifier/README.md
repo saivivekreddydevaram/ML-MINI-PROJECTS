@@ -17,14 +17,6 @@ The dataset is sourced from **Kaggle: [Breast Cancer Wisconsin (Diagnostic) Data
 
 ---
 
-## 📂 Repository Structure
-CancerClassifier/
-│── CancerClassifier.ipynb   # Jupyter Notebook with full workflow
-│── data.csv                 # Breast Cancer dataset
-│── README.md                # Project documentation (this file)
-
----
-
 ## ⚙️ Requirements
 - Python 3.8+
 - Libraries:
